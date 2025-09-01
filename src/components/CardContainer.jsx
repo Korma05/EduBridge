@@ -1,5 +1,5 @@
 import { memo } from "react";
-import { CardData } from "./Data";
+import { CardData } from "./DataCard";
 
 const CardContainer = () => {
   return (

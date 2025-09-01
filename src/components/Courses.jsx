@@ -5,7 +5,7 @@ import { IoBookSharp } from "react-icons/io5";
 
 import { FaStar } from "react-icons/fa";
 
-import { CoursesData } from "./Data";
+import { CoursesData } from "./DataCard";
 const Courses = () => {
   return (
     <div className="Courses container">

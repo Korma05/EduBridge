@@ -34,7 +34,7 @@ export const CardData = [
 export const CoursesData = [
   {
     id: 1,
-    img: "/image/coursesimg.jpg",
+    img: "My-React-App/public/image/coursesimg.jpg",
     departement: "Graphic Design",
     title: "UI & UX Design",
     rating: "4.7",
@@ -48,7 +48,7 @@ export const CoursesData = [
   },
   {
     id: 2,
-    img: "/image/coursesimg.jpg",
+    img: "My-React-App/public/image/coursesimg.jpg",
     departement: "Graphic Design",
     title: "UI & UX Design",
     rating: "4.7",
@@ -62,7 +62,7 @@ export const CoursesData = [
   },
   {
     id: 3,
-    img: "../../public/image/coursesimg.jpg",
+    img: "My-React-App/public/image/coursesimg.jpg",
     departement: "Graphic Design",
     title: "UI & UX Design",
     rating: "4.7",

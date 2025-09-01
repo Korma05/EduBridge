@@ -34,9 +34,9 @@ export const CardData = [
 export const CoursesData = [
   {
     id: 1,
-    img: "My-React-App/public/image/coursesimg.jpg",
+    img: "/image/coursesimg.jpg",
     departement: "Graphic Design",
-    title: "UI & UX Design",
+    title: "UI & UX Design/image/coursesimg.jpg",
     rating: "4.7",
     description:
       "The Gradual accumulation of information about atomic and small-scale behaviour , The Gradual accumulation of information about atomic and small-scale behaviour...",
@@ -48,7 +48,7 @@ export const CoursesData = [
   },
   {
     id: 2,
-    img: "My-React-App/public/image/coursesimg.jpg",
+    img: "/image/coursesimg.jpg",
     departement: "Graphic Design",
     title: "UI & UX Design",
     rating: "4.7",
@@ -62,7 +62,7 @@ export const CoursesData = [
   },
   {
     id: 3,
-    img: "My-React-App/public/image/coursesimg.jpg",
+    img: "/image/coursesimg.jpg",
     departement: "Graphic Design",
     title: "UI & UX Design",
     rating: "4.7",

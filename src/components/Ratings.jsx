@@ -1,5 +1,5 @@
 import { memo } from "react";
-import { RatingData } from "./Data";
+import { RatingData } from "./DataCard";
 const Ratings = () => {
   return (
     <div className="Ratings">
